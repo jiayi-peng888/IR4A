@@ -1,1 +1,11 @@
+@INPROCEEDINGS{11012792,
+  author={Zhang, Yue and Funabiki, Nobuo and Xiao, Yanqi and Hsu, Chen-Chien},
+  booktitle={2025 1st International Conference on Consumer Technology (ICCT-Pacific)}, 
+  title={Effectiveness Investigation of Drawing Exactness Assessment Method in Portrait Drawing Learning Assistant System}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Nose;Mouth;Tablet computers;Eyebrows;Facial features;Faces;portrait drawing;auxiliary lines;OpenPose;OpenCV;Normalized Cross-Correlation (NCC)},
+  doi={10.1109/ICCT-Pacific63901.2025.11012792}}
 
