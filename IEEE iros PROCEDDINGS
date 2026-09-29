@@ -18,4 +18,14 @@
   pages={619-624},
   keywords={Surveys;Learning systems;Art;Social networking (online);Algebra;Education;Tutorials;creative art, art learning, art education;artistic development;online art resources;design students},
   doi={10.1109/MIPRO60963.2024.10569586}}
+@INPROCEEDINGS{10833969,
+  author={Basty, Roshanak and Jung, Heekyoung and Halse, Shane},
+  booktitle={2024 Artificial Intelligence x Humanities, Education, and Art (AIxHEART)}, 
+  title={Digital Art Ecosystem: A Proposed Theoretical Construct}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={84-90},
+  keywords={Ethics;Generative AI;Ecosystems;Decision making;Digital art;Text to image;Generators;Stakeholders;Problem-solving;Cultural differences;Generative Artificial Intelligence (GenAI);Image-Based Artificial Intelligence (AI) Models;Digital Art;Digital Art Ecosystem;Entanglement HCI;AI Ethical Concerns},
+  doi={10.1109/AIxHeart62327.2024.00021}}
 
