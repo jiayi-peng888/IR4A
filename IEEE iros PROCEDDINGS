@@ -8,4 +8,14 @@
   pages={1-4},
   keywords={Nose;Mouth;Tablet computers;Eyebrows;Facial features;Faces;portrait drawing;auxiliary lines;OpenPose;OpenCV;Normalized Cross-Correlation (NCC)},
   doi={10.1109/ICCT-Pacific63901.2025.11012792}}
+@INPROCEEDINGS{10569586,
+  author={PaheL, Jana and Stipić, Sara and Babić, Tihana},
+  booktitle={2024 47th MIPRO ICT and Electronics Convention (MIPRO)}, 
+  title={Students Evaluation of Creative Art Learning Based on Online Art Resources}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={619-624},
+  keywords={Surveys;Learning systems;Art;Social networking (online);Algebra;Education;Tutorials;creative art, art learning, art education;artistic development;online art resources;design students},
+  doi={10.1109/MIPRO60963.2024.10569586}}
 
