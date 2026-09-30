@@ -8,173 +8,74 @@
   pages={3106-3119},
   keywords={Robots;Surface impedance;Manipulators;Art;Rendering (computer graphics);Impedance;Painting;Computational geometry;mobile manipulation;motion and path planning;robotic art},
   doi={10.1109/TRO.2023.3268585}}
-@INPROCEEDINGS{11581117，
- 作者={亚佐夫斯卡娅，奥尔加}，
- 书名={2026年IEEE乌拉尔-西伯利亚生物医学工程、无线电电子与信息技术会议（USBEREIT）}，
- 标题={艺术与技术之间的人工智能：艺术家角色、复制与以日本艺术为例的新艺术实践形式}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={1-4}，
- 关键词={艺术;人工智能;印刷;模特;工具;制作;技术;影像学;艺术;技术;人工智能艺术;艺术复制;日本版画;村上隆;AI 北斋}，
- doi={10.1109/USBEREIT70063.2026.11581117}}
- @INPROCEEDINGS{11459818，
- 作者={孔迪、诺普和诺姆纳、索姆凯特和孔吉特、查勒姆波尔和金塔皮塔克、马尼斯沃德和凯奥卡莫尔、波恩蒂达和以色列、玛娃}，
- 书名={2026年与ECTI电气、电子、计算机与电信工程北部分会联合国际数字艺术、媒体与技术会议（ECTI DAMT & NCON）}，
- 标题={利用人工智能（AI）创作当代兰纳民俗艺术}，
- 年份={2026}，
- volume={}，
- 编号={}，
- 页={384-389}，
- 关键词={Bridges;可视化;技术创新;艺术;生成式人工智能;城市地区;全球传播;文化差异;生成式人工智能艺术;兰纳民俗艺术;文化遗产;可持续城市与社区;无贫困}，
- doi={10.1109/ECTIDAMTNCON67592.2026.11459818}}
- @INPROCEEDINGS{11607115，
- 作者={江洪和苏，小梅和田，小红}，
- 书名={2026年智能工程与下一代医疗系统国际会议（IEHNS）}，
- 标题={人工智能在环境艺术中的应用}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={1-5}，
- 关键词={设计方法论;艺术;人工智能;模特;技术;生成对抗网络;时间安排;绿色设计;计算机;印刷;人工智能;环境艺术设计;挑战与机遇;发展趋势}，
- doi={10.1109/IEHNS68708.2026.11607115}}
- @INPROCEEDINGS{11606831，
- 作者={孙，元}，
- 书名={2026年智能工程与下一代医疗系统国际会议（IEHNS）}，
- 标题={人工智能背景下的艺术设计教育基础课程探索}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={1-5}，
- 关键词={人工智能;设计方法论;艺术;工具;模特;印刷;学习（人工智能）;时间安排;教育机构;技术;人工智能;艺术与设计教育;基础设计课程;人工智能辅助学习;定量评估;课程重构;稳定扩散;基于项目的学习}，
- doi={10.1109/IEHNS68708.2026.11606831}}
- @INPROCEEDINGS{11606690，
- 作者={刘，小龙}，
- 书名={2026年智能工程与下一代医疗系统国际会议（IEHNS）}，
- 标题={基于深度学习智能虚拟现实技术的沉浸式环境艺术设计}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={1-5}，
- 关键词={设计方法论;艺术;技术;深度学习;虚拟环境;模特;印刷;渲染（计算机图形学）;虚拟现实;延误;沉浸式环境艺术设计;智能虚拟现实;深度学习;卷积神经网络}，
- doi={10.1109/IEHNS68708.2026.11606690}}
- @INPROCEEDINGS{11648247，
- 作者={希尔、比拉森杜和森、坦迈和考尔、帕尔尼特和考尔、塔兰普里特和迪曼、拉维}，
- 书名={2026年第二届可持续计算与人工智能变革中的集成通信国际会议（ICSCAI）}，
- 标题={智能数字艺术教育平台：整合人工智能、虚拟博物馆与印度传统艺术教学法}，
- 年份={2026}，
- volume={}，
- 编号={}，
- 页={140-145}，
- 关键词={艺术;人工智能;学习（人工智能）;模特;虚拟博物馆;印刷;技术;设计方法论;反馈;现行;艺术教育;人工智能;虚拟博物馆;数字学习;智能教育系统;混合式学习;印度}，
- doi={10.1109/ICSCAI68849.2026.11648247}}
- @INPROCEEDINGS{11565580，
- 作者={任，宣佳，严，金浩}，
- 书名={2026年国际智能设计与计算会议（IC-IDC）}，
- 标题={一种用于数字艺术创作的新型人机协作交互模型}，
- 年份={2026}，
- volume={}，
- 编号={}，
- 页={79-82}，
- 关键词={优化;模特;人工智能;方程;印刷;艺术;设计方法论;协作;时间安排;标签;人机协作;数字艺术创作;多模态交互;深度学习;生成对抗网络}，
- doi={10.1109/IC-IDC69627.2026.11565580}}
- @INPROCEEDINGS{11565580，
- 作者={任，宣佳，严，金浩}，
- 书名={2026年国际智能设计与计算会议（IC-IDC）}，
- 标题={一种用于数字艺术创作的新型人机协作交互模型}，
- 年份={2026}，
- volume={}，
- 编号={}，
- 页={79-82}，
- 关键词={优化;模特;人工智能;方程;印刷;艺术;设计方法论;协作;时间安排;标签;人机协作;数字艺术创作;多模态交互;深度学习;生成对抗网络}，
- doi={10.1109/IC-IDC69627.2026.11565580}}
- @INPROCEEDINGS{11608320，
- 作者={马赫什，K M 和 苏达卡兰，普拉迪普，詹姆斯，迪维娅}，
- 书名={2026年国际计算、通信、安全与智能系统会议（IC3SIS）}，
- 标题={识别喀拉拉艺术形式的深度学习 文献综述}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={1-6}，
- 关键词={艺术;模特;卷积神经网络;人文学科;深度学习;印刷;准确性;面部表情;可视化;人工智能;喀拉拉艺术形式;卡塔卡利;泰亚姆;深度学习;手势识别;角色识别;文化遗产;CNN;YOLO;姿态估计}，
- doi={10.1109/IC3SIS69949.2026.11608320}}
- @INPROCEEDINGS{11606957，
- 作者={王，亚辉}，
- 书名={2026年智能工程与下一代医疗系统国际会议（IEHNS）}，
- 标题={机器学习艺术治疗中的多模态数据融合}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={1-4}，
- 关键词={艺术;医疗治疗;模特;机器学习;数据集成;机械加工;技术;准确性;可视化;卷积神经网络;机器学习;艺术治疗;多模态数据融合;特征提取;深度学习}，
- doi={10.1109/IEHNS68708.2026.11606957}}
- @INPROCEEDINGS{11607393，
- 作者={王，亚辉}，
- 书名={2026年智能工程与下一代医疗系统国际会议（IEHNS）}，
- 标题={基于机器学习的个性化艺术治疗产品系统设计与创新实施}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={1-5}，
- 关键词={艺术;医疗治疗;机器学习;机械加工;心理健康;技术;模（抽象代数）;反馈;印刷;优化;机器学习;艺术治疗;个性化;系统设计;心理健康}，
- doi={10.1109/IEHNS68708.2026.11607393}}
- @INPROCEEDINGS{11607216，
- 作者={张宇彤和萧，雪云和蔡，不居和周，依和}，
- 书名={2026年智能工程与下一代医疗系统国际会议（IEHNS）}，
- 标题={多模态感知与具身：跨媒体艺术管理中的人工智能驱动研究}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={1-5}，
- 关键词={艺术;印刷;人工智能;测量;技术;时间安排;设计方法论;索引;索引;博物馆;跨媒体艺术;多模式参与;具身互动;游客体验;艺术管理中的人工智能，
- doi={10.1109/IEHNS68708.2026.11607216}}
- @ARTICLE{11646577，
- 作者={孙俊辉 和沈聚明}，
- 期刊={IEEE Access}，
- 标题={理解艺术与设计学生生成式人工智能的行为意图：自决理论与技术接受模型的综合框架}，
- 年份={2026}，
- volume={14}，
- 编号={}，
- pages={122865-122878}，
- 关键词={生成式AI;模特;设计方法论;艺术;学习（人工智能）;即时通讯;技术接受模型;铋;商业智能;人工智能;艺术与设计专业;行为意图;生成式人工智能;自决理论;结构方程建模;技术接受模型}，
- doi={10.1109/ACCESS.2026.3721882}}
- @ARTICLE{11394800，
- 作者={王、莫、张，叶和和，金龙和周，玉鹏和李，年通和王，建南和孙，一飞和尹，明浩}，
- 期刊={IEEE学习技术汇刊}，
- 标题={通过人-人工智能团队优化美学感知，实现艺术注释中微妙的维度识别}，
- 年份={2026}，
- volume={19}，
- 编号={}，
- 页={105-116}，
- 关键词={注释;预测模型;人工智能;可视化;强化学习;艺术;适应模型;计算建模;准确性;培训;审美感知;用于艺术教育的人工智能（AI）;人机联队;多智能体强化学习（RL）}，
- doi={10.1109/TLT.2026.3664309}}
- @INPROCEEDINGS{11663028，
- 作者={哈伦、阿扎哈尔和拉扎克，穆罕默德·拉齐夫·阿卜杜勒和别名，艾达和阿卜杜拉，穆罕默德·哈齐克·林和约加南提，奥里亚·法兰蒂卡和维巴万托，旺达}，
- 书名={2026年IEEE国际工程与计算教育创新、伦理与新兴技术会议（IE2C）}，
- 标题={创意艺术学生对生成式人工智能工具的接受度}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={1-5}，
- 关键词={艺术;生成式人工智能;工具;模特;技术接受模型;人工智能;铋;商业智能;技术;设计方法论;创意艺术;生成式人工智能工具;技术接受模型（TAM）}，
- doi={10.1109/IE2C69620.2026.11663028}}
- @INPROCEEDINGS{11526712，
- 作者={Kishore， N. 和 Amaraa， M. 和 S， Harinishree 和 Jayagowry， G.}，
- 书名={2026年第13届国际可持续全球发展计算会议（INDIACom）}，
- 标题={人工智能驱动的视觉相似检测与基于区块链的版权验证框架防止艺术挪用}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={1-6}，
- 关键词={建模;可视化;水印;艺术;印刷;方程;信号检测;人工智能;智能合约;时间安排;视觉相似性检测;艺术挪用;区块链来源;版权验证;视觉变压器;风格丧失;智能合约}，
- doi={10.23919/INDIACom70271.2026.11526712}}
- @INPROCEEDINGS{11518887，
- 作者={哈桑，穆罕默德·哈西布和马哈茂德·乌拉，A.F.M.和安韦尔，穆罕默德和贾比乌拉，穆罕默德·伊斯梅尔和哈比卜，马里罕默德·塔雷克}，
- 书名={2026年第一届新兴技术与工程系统国际会议（ICETES）}，
- 标题={基于CNN的外国、中国及孟加拉国涂鸦艺术研究，利用深度学习进行跨文化视觉分类}，
- 年份={2026}，
- volume={}，
- 编号={}，
- pages={418-423}，
- 关键词={建模;艺术;卷积神经网络;时间安排;可视化;绘画;印刷;准确性;深度学习;润滑油;卷积神经网络（CNN）;文化多样性;深度学习（DL）;视觉艺术分类;ResNet-50;VGG-16}，
- doi={10.1109/ICETES68504.2026.11518887}}
+@INPROCEEDINGS{11581117, 
+@INPROCEEDINGS{11607393, 
+author={Wang, Yahui}, 
+booktitle={2026 International Conference on Intelligent Engineering and Next-Generation Healthcare Systems (IEHNS)}, 
+title={System Design and Innovative Implementation of Personalized Art Therapy Products Based on Machine Learning}, 
+year={2026}, 
+volume={}, 
+number={}, 
+pages={1-5}, 
+keywords={art; medical therapy; machine learning; machining; mental health; technology; modules (abstract algebra); feedback; printing; optimization; machine learning; art therapy; personalization; system design; mental health}, 
+doi={10.1109/IEHNS68708.2026.11607393}} 
+@INPROCEEDINGS{11607216, 
+author={Zhang Yutong and Xiao Xueyun and Cai Buju and Zhou Yihe}, 
+booktitle={2026 International Conference on Intelligent Engineering and Next-Generation Healthcare Systems (IEHNS)}, 
+title={Multimodal Perception and Embodiment: AI-Driven Research in Cross-Media Art Management}, 
+year={2026}, 
+volume={}, 
+number={}, 
+pages={1-5}, 
+keywords={art; printing; artificial intelligence; measurement; technology; scheduling; design methodology; indexing; indexing; museums; cross-media art; multimodal engagement; embodied interaction; visitor experience; artificial intelligence in art management}, 
+doi={10.1109/IEHNS68708.2026.11607216}} 
+@ARTICLE{11646577, 
+author={Sun Junhui and Shen Juming}, 
+journal={IEEE Access}, 
+title={Understanding the Behavioral Intentions of Generative AI Among Art and Design Students: An Integrated Framework of Self-Determination Theory and Technology Acceptance Model}, 
+year={2026}, 
+volume={14}, 
+number={}, 
+pages={122865-122878}, 
+keywords={generative AI; models; design methodology; art; learning (artificial intelligence); instant messaging; technology acceptance model; bismuth; business intelligence; artificial intelligence; art and design majors; behavioral intention; generative artificial intelligence; self-determination theory; structural equation modeling; technology acceptance model}, 
+doi={10.1109/ACCESS.2026.3721882}} 
+@ARTICLE{11394800, 
+author={Wang Mo and Zhang Yehe and Jin Jinlong and Zhou Yupeng and Li Niantong and Wang Jiannan and Sun Yifei and Yin Minghao}, 
+journal={IEEE Transactions on Learning Technologies}, 
+title={Optimizing Aesthetic Perception Through Human-AI Teams for Subtle Dimension Recognition in Art Annotation}, 
+year={2026}, 
+volume={19}, 
+number={}, 
+pages={105-116}, 
+keywords={annotation; predictive models; artificial intelligence; visualization; reinforcement learning; art; adaptive models; computational modeling; accuracy; training; aesthetic perception; artificial intelligence (AI) for art education; human-AI teams; multi-agent reinforcement learning (RL)}, 
+doi={10.1109/TLT.2026.3664309}} 
+@INPROCEEDINGS{11663028, 
+author={Harun, Azhar and Razak, Muhammad Razif Abdul and Alias, Aida and Abdullah, Muhammad Khazik Lin and Yogananti, Oria Frantika and Wibawanto, Wanda}, 
+booktitle={2026 IEEE International Conference on Innovation, Ethics and Emerging Technologies in Engineering and Computing Education (IE2C)}, 
+title={Acceptance of Generative AI Tools Among Creative Arts Students}, 
+year={2026}, 
+volume={}, 
+number={}, 
+pages={1-5}, 
+keywords={art; generative artificial intelligence; tools; models; technology acceptance model; artificial intelligence; bismuth; business intelligence; technology; design methodology; creative arts; generative AI tools; Technology Acceptance Model (TAM)}, 
+doi={10.1109/IE2C69620.2026.11663028}} 
+@INPROCEEDINGS{11526712, 
+author={Kishore, N. and Amaraa, M. and S, Harinishree and Jayagowry, G.}, 
+booktitle={2026 13th International Conference on Computing for Sustainable Global Development (INDIACom)}, 
+title={AI-Driven Visual Similarity Detection and Blockchain-Based Copyright Verification Framework to Prevent Art Appropriation}, 
+year={2026}, 
+volume={}, 
+number={}, 
+pages={1-6}, 
+keywords={modeling; visualization; watermarking; art; printing; equations; signal detection; artificial intelligence; smart contracts; scheduling; visual similarity detection; art appropriation; blockchain provenance; copyright verification; vision transformers; style loss; smart contracts}, 
+doi={10.23919/INDIACom70271.2026.11526712}} 
+@INPROCEEDINGS{11518887, 
+author={Hassan, Muhammad Hasib and Mahmud Ullah, A.F.M. and Anwer, Muhammad and Jabiullah, Muhammad Ismail and Habib, Muhammad Tarek}, 
+booktitle={2026 1st International Conference on Emerging Technologies and Engineering Systems (ICETES)}, 
+title={CNN-Based Study of Foreign, Chinese and Bangladeshi Graffiti Art with Deep Learning for Cross-Cultural Visual Classification}, 
+year={2026}, 
+volume={}, 
+number={}, 
+pages={418-423}, 
+keywords={modeling; art; convolutional neural networks; scheduling; visualization; painting; printing; accuracy; deep learning; lubricants; convolutional neural networks (CNN); cultural diversity; deep learning (DL); visual art classification; ResNet-50; VGG-16}, 
+doi={10.1109/ICETES68504.2026.11518887}}
